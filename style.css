@@ -554,9 +554,9 @@ form{
     }
 }
 
-@media screen and (min-width: 1300px) and (max-width: 1600px){
+@media screen and (min-width: 900px) and (max-width: 1600px){
     .contato{
-        height: 622px;
+        height: 725px;
     }
 
     .container{
