@@ -339,7 +339,7 @@ form{
 
 /* RESPONSIVIDADE */
 
-@media screen and (min-width: 390px) and (max-width: 844px){ /* Galaxi S9 */
+@media (max-width: 999px){ 
     body{
         overflow-x: hidden;
         padding: 0px;
